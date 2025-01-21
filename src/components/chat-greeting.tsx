@@ -24,7 +24,7 @@ export const ChatGreeting = () => {
         }}
       >
         <span className="text-zinc-300 dark:text-zinc-500 flex items-center flex-row gap-1">
-          <WavingHand02Icon size={32} variant="stroke" strokeWidth="2" />
+          <WavingHand02Icon size={32} strokeWidth="2" />
           Hello,
         </span>
         How can I help you today? 😊
